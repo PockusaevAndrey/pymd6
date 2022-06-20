@@ -1,6 +1,12 @@
 # Simple library to calculate MD6 checksum
 
-### Example
+
+#### Install
+```bash
+pip install pymd6
+```
+
+#### Example
 ```python
 from MD6 import MD6
 
